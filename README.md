@@ -22,6 +22,8 @@ We will deploy this at some point on heroku
 You can contribute by doing testing and fixing bugs
 as you know that's the best way to understand the code.
 
+Please fork this repository.
+
 ### Copyright
-2018 -
+copyright 2018 -
 
