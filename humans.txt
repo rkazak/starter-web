@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Rohinton Kazak  rohinton.kazak@gmail.com  @rkazak
 
 # THANKS
 
