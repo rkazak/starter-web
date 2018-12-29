@@ -12,5 +12,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+We will deploy this at some point on heroku
+
 ## How to Contribute
 
