@@ -27,5 +27,5 @@ as you know that's the best way to understand the code.
 Please fork this repository.
 
 ### Copyright
-copyright 2018 -
+copyright 2018 All rights reserved.
 
